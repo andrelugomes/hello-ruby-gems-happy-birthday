@@ -1,14 +1,14 @@
 class HappBirthday
-  def self.hi
+  def self.say name
     puts "
 		 ______________________
-		/                      \
-		| Parabenss RubyBoy    |
-		\                      /
+		/                      \\
+		| Parabenss RubyBoy !  |
+		\\                      /
 		 ----------------------
-		        \   ^__^
-		         \  (oo)\_______
-		            (__)\       )\/\
+		        \\   ^__^
+		         \\  (oo)\\_______
+		            (__)\\       )\\/\\
 		                ||----w |
 		                ||     ||
 

@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'happy-birthday'
+puts HappBirthday.say(ARGV[0])
